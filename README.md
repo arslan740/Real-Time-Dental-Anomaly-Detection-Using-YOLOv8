@@ -101,15 +101,3 @@ The trained model demonstrates accurate detection of the specified classes:
 |   |-- infer.py      # Inference script
 ```
 
----
-
-## Acknowledgments
-
-- Built with [YOLOv8](https://github.com/ultralytics/ultralytics).
-- Thanks to the dental professionals who provided data and guidance.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
